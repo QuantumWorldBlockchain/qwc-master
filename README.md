@@ -1,5 +1,5 @@
  
-QWC Coin (QWC) Currency and Charity
+Quantum World Coin (QWC) Currency and Charity
 =====================================
 QWC Coin was created to help restore the balance to ecosystems around the world that reptiles and amphibians call home.  As a future 501c3 non-profit charitable organization, qwc Coin leverages the power of blockchain, cryptocurrency and masternodes to help generate the funding these habitats desperately need.
 
