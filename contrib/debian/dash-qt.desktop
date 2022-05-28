@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=qwc
+Comment=qwc P2P Cryptocurrency
+Comment[fr]=qwc, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=qwc, eşten eşe kriptografik sanal para birimi
+Exec=qwc-qt %u
+Terminal=false
+Type=Application
+Icon=qwc128
+MimeType=x-scheme-handler/qwc;
+Categories=Office;Finance;

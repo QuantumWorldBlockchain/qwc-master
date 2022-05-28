@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/qwc_bg.qm</file>
+        <file alias="de">locale/qwc_de.qm</file>
+        <file alias="en">locale/qwc_en.qm</file>
+        <file alias="es">locale/qwc_es.qm</file>
+        <file alias="fi">locale/qwc_fi.qm</file>
+        <file alias="fr">locale/qwc_fr.qm</file>
+        <file alias="it">locale/qwc_it.qm</file>
+        <file alias="ja">locale/qwc_ja.qm</file>
+        <file alias="pl">locale/qwc_pl.qm</file>
+        <file alias="pt">locale/qwc_pt.qm</file>
+        <file alias="ru">locale/qwc_ru.qm</file>
+        <file alias="sk">locale/qwc_sk.qm</file>
+        <file alias="sv">locale/qwc_sv.qm</file>
+        <file alias="vi">locale/qwc_vi.qm</file>
+        <file alias="zh_CN">locale/qwc_zh_CN.qm</file>
+        <file alias="zh_TW">locale/qwc_zh_TW.qm</file>
+    </qresource>
+</RCC>

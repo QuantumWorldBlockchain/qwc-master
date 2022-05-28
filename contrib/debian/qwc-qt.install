@@ -1,0 +1,6 @@
+usr/local/bin/qwc-qt usr/bin
+share/pixmaps/qwc32.xpm usr/share/pixmaps
+share/pixmaps/qwc16.xpm usr/share/pixmaps
+share/pixmaps/qwc128.png usr/share/pixmaps
+debian/qwc-qt.desktop usr/share/applications
+debian/qwc-qt.protocol usr/share/kde4/services/
