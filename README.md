@@ -1,9 +1,9 @@
  
 Quantum World Coin (QWC) Currency and Charity
 =====================================
-QWC Coin was created to help restore the balance to ecosystems around the world that reptiles and amphibians call home.  As a future 501c3 non-profit charitable organization, qwc Coin leverages the power of blockchain, cryptocurrency and masternodes to help generate the funding these habitats desperately need.
+QWC was created to help restore the balance to ecosystems around the world that reptiles and amphibians call home.  As a future 501c3 non-profit charitable organization, qwc Coin leverages the power of blockchain, cryptocurrency and masternodes to help generate the funding these habitats desperately need.
 
-QWC Coin will be accepted by animal rescues to fund the medical care and adoption fees required to give our qwc based friends new homes and a chance!  We are are a small team taking a steady pace to build the right network and partners to slowly but surely chip away of the overwhelming cost and effort associated with ecosystem homeostasis.
+QWC will be accepted by animal rescues to fund the medical care and adoption fees required to give our qwc based friends new homes and a chance!  We are are a small team taking a steady pace to build the right network and partners to slowly but surely chip away of the overwhelming cost and effort associated with ecosystem homeostasis.
 
 QWC is a egalitarian Proof-of-Work (PoW) cryptocurrency building up a global community to be united against the inflationary nature of all world Fiat currency. As governments print an infinite amount of dollars, euros etc., qwc remains finite and predicable.  qwc is superior to fiat and traditional banks by:
 - Masternodes to support consensus by the people (20000 QWC)
